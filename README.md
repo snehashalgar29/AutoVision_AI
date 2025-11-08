@@ -24,4 +24,4 @@ AutoVision.AI is a deep learning-based project built using YOLOv8 and OpenCV to 
    ```
 
 ## 👤 Author
-[Your Name] – Week 1 Project Submission (Edunet Foundation)
+sneha shalagar – Week 1 Project Submission (Edunet Foundation)
